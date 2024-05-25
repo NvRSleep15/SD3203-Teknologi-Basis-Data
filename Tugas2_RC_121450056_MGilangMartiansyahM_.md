@@ -1,9 +1,14 @@
-Nama : M Gilang Martiansyah M
-Nim :121450056
-Kelas : TBD RC
+# Praktikum Database Management System 🍮
+
+## Nama: M. Gilang Martiansyah M
+## NIM: 121450056
+## Kelas: TBD RC
 
 # Mengimpor Pustaka yang Diperlukan
 ## Mengimpor modul-modul yang dibutuhkan dalam program
+# Mengimpor Pustaka yang Diperlukan
+## Mengimpor modul-modul yang dibutuhkan dalam program
+
 ```python
 import h5py
 import numpy as np
